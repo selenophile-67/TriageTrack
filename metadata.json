@@ -1,0 +1,6 @@
+{
+  "name": "TriageTrack – The Smart ER Visualizer",
+  "description": "The Right Care. At the Right Place. At the Right Time. Navigate nearby hospitals, urgent care centres, and clinics based on symptom urgency, medical capabilities, and wait times.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
